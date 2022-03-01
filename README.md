@@ -1,1 +1,1 @@
-# Convolution-Neural-Networks-Basic-
+# Convolution Neural Networks (Basic)
